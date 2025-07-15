@@ -106,7 +106,7 @@ Adafruit_GFX
 ---
 
 ##👤 Author
-[Rahul / GitHub handle]
+[Rahul /https://github.com/RahulSPB]
 
 
 
